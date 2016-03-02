@@ -3,7 +3,7 @@
 
 #Design Screenshots
 - Design for screen 1
-![ScreenShot](1.jpg)
+![ScreenShot](111.jpg)
 </br>
 - Design for screen 2
 ![ScreenShot](2.jpg)
