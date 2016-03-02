@@ -2,10 +2,15 @@
 
 
 #Design Screenshots
-- Design 
+- Design for screen 1
 ![ScreenShot](1.jpg)
-
+</br>
+- Design for screen 2
+![ScreenShot](2.jpg)
 
 #Block Screenshots
-- Blocks 
-![ScreenShot](INVENTOR.jpg)
+- Blocks for screen 1
+![ScreenShot](3.jpg)
+</br>
+- Blocks for screen 2
+![ScreenShot](4.jpg)
